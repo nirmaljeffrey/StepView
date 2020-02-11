@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<declare-styleable name="StepView">
+     <attr name="in_complete_state_icons" format="reference"/>
+    <attr name="in_progress_state_icons" format="reference"/>
+    <attr name="completed_state_icon" format="reference"/>
+</declare-styleable>
+</resources>

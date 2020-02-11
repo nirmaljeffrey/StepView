@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="in_complete_state_icons">
+        <item>@drawable/ic_document_in_complete</item>
+        <item>@drawable/ic_profile_in_complete</item>
+        <item>@drawable/ic_video_in_complete</item>
+        <item>@drawable/ic_bank_in_complete</item>
+    </array>
+
+    <array name="in_progress_state_icons">
+        <item>@drawable/ic_document_in_progress</item>
+        <item>@drawable/ic_profile_in_progress</item>
+        <item>@drawable/ic_video_in_progress</item>
+        <item>@drawable/ic_bank_in_progress</item>
+    </array>
+</resources>
